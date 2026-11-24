@@ -1,0 +1,2 @@
+# TODO: AdMob 계정을 만든 뒤 pub-0000000000000000을 내 게시자 ID로 바꾼다(AdMob > 앱 > app-ads.txt 설정에 나오는 줄을 그대로 붙여 넣어도 된다).
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
